@@ -92,3 +92,13 @@ In turn, the best parameters were:
 |neurons|64|
 |batches|64|
 
+## Results :
+Running **es_odio.py** with dataset **test.csv**:
+
+|Messure|Value|
+|---|---|
+|Accuracy|55.14|
+|Precision|57.63|
+|Recall|45.09|
+|F1|49.28|
+
